@@ -10,7 +10,7 @@ body{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
 /*seccion header barra */
 
 .navbarra{
-    background-color: maroon;
+    background-image: radial-gradient(circle,#98090c,#000000);
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     align-items: center;
@@ -77,7 +77,7 @@ font-weight: 300;}
     display: grid;
     height: 80px;
     align-items: center;
-    background-color:black;
+    background-image: radial-gradient(circle,#98090c,#000000);
     color: white;
     grid-template-areas: "horarios seguinos redessociales";
 }
